@@ -5,7 +5,7 @@ Compilado de estudos, bibliotecas, tutoriais para consulta.
 ### Conteúdo
 
 - [SQL](/sql): sintaxe e exercícios
-- [Web Scrapping](/web_scrapping): selenium, bs4
+- [Web Scraping](/web_scraping): selenium, bs4
 
 ### License
 

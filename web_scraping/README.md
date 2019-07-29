@@ -1,4 +1,4 @@
-## Web Scrapping
+## Web Scraping
 
 Bibliotecas: 
 - [Selenium](https://selenium-python.readthedocs.io/index.html)
